@@ -1,6 +1,6 @@
 ## Olá eu sou o João Henrique 
  
-  💻 Atualmente estou desenvolvendo minhas habilidade em Javascript (Front-end) e Java (Back-end) /n
+  💻 Atualmente estou desenvolvendo minhas habilidade em Javascript (Front-end) e Java (Back-end)<br/>
   📈 Estou constantemente aprendendo e melhorando minhas habilidades
  
  <div>
