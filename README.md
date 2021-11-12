@@ -1,5 +1,9 @@
 ## Olá eu sou o João Henrique 
  <div>
+  💻 Atualmente estou desenvolvendo minhas habilidade em Javascript (Front-end) e Java (Back-end)
+  📈 Estou constantemente aprendendo e melhorando minhas habilidades
+ </div>
+ <div>
   <a href="https://github.com/henriquepython">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquepython&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepython&layout=compact&langs_count=7&theme=dark"/>
