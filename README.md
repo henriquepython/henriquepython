@@ -1,6 +1,6 @@
 ## Olá eu sou o João Henrique 
  
-  💻 Atualmente estou desenvolvendo minhas habilidade em Javascript (Front-end), NodeJs(Back-end) e Java (Back-end)<br/>
+  💻 Atualmente estou desenvolvendo minhas habilidade em Javascript (Front-end)<br/>
    #Life long Learning.</br>
    #Learning mode ON.</br>
    #Passionate about technology, knowledge and innovation.
