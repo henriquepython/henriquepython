@@ -1,9 +1,9 @@
-## 👋 Hi there! I'm Leo
+## 👋 Hi there! I'm João
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;&nbsp;I like to learn new technologies and develop software solutions.\
-🔭 &nbsp;I'm currently working at CI&T Software as a Software Architect.
+🔭 &nbsp;I'm currently working at AP Interactive as a Software Developer Jr.
 
 ### 🛠 &nbsp;Tech Stack
 
