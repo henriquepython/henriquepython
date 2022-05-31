@@ -28,11 +28,9 @@
 <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-batista-pereira/"><img src="https://img.shields.io/badge/-João%20Henriqe%20Batista%20Cerqueira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-### STATS
-
 </br>
 
 <a href="https://github.com/henriquepython">
    <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepython&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+</a>
  
