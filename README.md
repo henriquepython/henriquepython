@@ -1,9 +1,13 @@
-## 👋 Hi there! I'm João
+## 👋 Olá! Eu sou João
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mim
 
-💡 &nbsp;&nbsp;I like to learn new technologies and develop software solutions.\
-🔭 &nbsp;I'm currently working at AP Interactive as a Software Developer Jr.
+💡 &nbsp;&nbsp;Gosto de aprender novas tecnologias e desenvolver soluções de software.\
+🔭 &nbsp;Atualmente trabalho na AP Interactive como desenvolvedor de software.
+
+💻 Atualmente estou desenvolvendo minhas habilidade em C#/Aspnet/.Net/Angular/Azure
+📈 Estou constantemente aprendendo e melhorando minhas habilidades
+📊 Pretendo compartilhar meu conhecimeto com outros desenvolvedores
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -22,7 +26,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Conecte-se comigo
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-batista-pereira/"><img src="https://img.shields.io/badge/-João%20Henriqe%20Batista%20Cerqueira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
