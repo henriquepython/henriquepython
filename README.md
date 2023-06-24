@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
 💡 &nbsp;&nbsp;Gosto de aprender novas tecnologias e desenvolver soluções de software.\
-🔭 &nbsp;Atualmente trabalho na AP Interactive como desenvolvedor de software.
+🔭 &nbsp;Atualmente trabalho na AP Digital Services como desenvolvedor de software.
 
 💻 Atualmente estou desenvolvendo minhas habilidade em C#/Aspnet/.Net/Angular/Azure. \
 📈 Estou constantemente aprendendo e melhorando minhas habilidades. \
