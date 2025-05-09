@@ -29,7 +29,7 @@
 ### 🤝🏻 &nbsp;Conecte-se comigo
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-batista-pereira/"><img src="https://img.shields.io/badge/-João%20Henriqe%20Batista%20Cerqueira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/joao-henrique-batista-pereira"><img src="https://img.shields.io/badge/-João%20Henriqe%20Batista%20Cerqueira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 </br>
