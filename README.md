@@ -3,8 +3,6 @@
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
 💡 &nbsp;&nbsp;Gosto de aprender novas tecnologias e desenvolver soluções de software.\
-🔭 &nbsp;Atualmente trabalho na AP Digital Services como Desenvolvedor de software .Net pleno.
-
 💻 Atualmente estou desenvolvendo minhas habilidade em C#/Aspnet/.Net/Angular/React/Azure/AWS. \
 📈 Estou constantemente aprendendo e melhorando minhas habilidades. \
 📊 Pretendo compartilhar meu conhecimento com outros desenvolvedores
